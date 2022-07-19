@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(8, 61, 206);
+}
+
+header .btnagain{
+    width: 120px;
+    padding: 12px;
+    font-size: 18px;
+    background-color: red;
+}
+
+header p{
+    margin-left: 491px;
+    margin-top: 45px;
+    font-size: 20px;
+}
+
+header h1 {
+    margin-left: 517px;
+    margin-top: 55px;
+}
+
+header .number{
+    width: 100px;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+    background-color: red;
+    margin-left: 592px;
+}
+
+main{
+    display: flex;
+}
+
+.left{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 343px;
+}
+
+.right{
+    width: 50%;
+    margin-top: 100px;
+}
+
+.gues{
+    width: 110px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.btnchek{
+    margin: 0px;
+    width: 80px;
+    margin-top: 5px;
+    margin-left: 16px;
+    padding: 5px;
+}
+
+.right .message{
+    margin: 0px;
+}
+
+.label-score{
+    margin-top: 10px;
+}
+
